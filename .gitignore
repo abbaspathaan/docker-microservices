@@ -1,17 +1,47 @@
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-# https://github.com/takari/maven-wrapper#usage-without-binary-jar
-.mvn/wrapper/maven-wrapper.jar
+api-gateway/.mvn
+api-gateway/.factorypath
+api-gateway/.settings
+api-gateway/target
+api-gateway/.classpath
+api-gateway/.gitignore
+api-gateway/.project
 
-# Eclipse m2e generated files
-# Eclipse Core
-.project
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
+currency-conversion-service/.factorypath
+currency-conversion-service/.mvn
+currency-conversion-service/.settings
+currency-conversion-service/target
+currency-conversion-service/.classpath
+currency-conversion-service/.gitignore
+currency-conversion-service/.project
+
+currency-exchange-service/.factorypath
+currency-exchange-service/.mvn
+currency-exchange-service/.settings
+currency-exchange-service/target
+currency-exchange-service/.classpath
+currency-exchange-service/.gitignore
+currency-exchange-service/.project
+
+limit-service/.mvn
+limit-service/.settings
+limit-service/target
+limit-service/.classpath
+limit-service/.factorypath
+limit-service/.gitignore
+limit-service/.project
+
+naming-server/.factorypath
+naming-server/.mvn
+naming-server/.settings
+naming-server/target
+naming-server/.classpath
+naming-server/.gitignore
+naming-server/.project
+
+spring-cloud-config-server/.factorypath
+spring-cloud-config-server/.mvn
+spring-cloud-config-server/.settings
+spring-cloud-config-server/target
+spring-cloud-config-server/.classpath
+spring-cloud-config-server/.gitignore
+spring-cloud-config-server/.project

@@ -1,0 +1,4 @@
+abbaspathan/mmv3-naming-server:0.0.1-SNAPSHOT
+abbaspathan/mmv3-api-gateway:0.0.1-SNAPSHOT
+abbaspathan/mmv3-currency-exchange-service:0.0.1-SNAPSHOT
+abbaspathan/mmv3-currency-conversion-service:0.0.1-SNAPSHOT
